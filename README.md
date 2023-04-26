@@ -1,4 +1,3 @@
-# MelanomaDetection
 # Melanoma Skin Cancer Detection
 
 ## Abstract
